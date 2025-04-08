@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vsCode\\WindowsActivator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48C85E1-9AB7-43E4-B8F2-C295A9D19A4C}|WindowsActivator\\WindowsActivator.csproj|e:\\vscode\\windowsactivator\\windowsactivator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48C85E1-9AB7-43E4-B8F2-C295A9D19A4C}|WindowsActivator\\WindowsActivator.csproj|solutionrelative:windowsactivator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48C85E1-9AB7-43E4-B8F2-C295A9D19A4C}|WindowsActivator\\WindowsActivator.csproj|E:\\vsCode\\WindowsActivator\\windowsactivator\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E48C85E1-9AB7-43E4-B8F2-C295A9D19A4C}|WindowsActivator\\WindowsActivator.csproj|solutionrelative:windowsactivator\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsActivator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowsActivator",
+              "DocumentMoniker": "E:\\vsCode\\WindowsActivator\\WindowsActivator\\WindowsActivator.csproj",
+              "RelativeDocumentMoniker": "WindowsActivator\\WindowsActivator.csproj",
+              "ToolTip": "E:\\vsCode\\WindowsActivator\\WindowsActivator\\WindowsActivator.csproj",
+              "RelativeToolTip": "WindowsActivator\\WindowsActivator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T23:24:27.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.manifest",
+              "DocumentMoniker": "E:\\vsCode\\WindowsActivator\\WindowsActivator\\app.manifest",
+              "RelativeDocumentMoniker": "WindowsActivator\\app.manifest",
+              "ToolTip": "E:\\vsCode\\WindowsActivator\\WindowsActivator\\app.manifest",
+              "RelativeToolTip": "WindowsActivator\\app.manifest",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-04-08T23:22:32.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vsCode\\WindowsActivator\\WindowsActivator\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsActivator\\Program.cs",
+              "ToolTip": "E:\\vsCode\\WindowsActivator\\WindowsActivator\\Program.cs",
+              "RelativeToolTip": "WindowsActivator\\Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:58:29.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
