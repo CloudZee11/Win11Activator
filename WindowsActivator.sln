@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsActivator", "WindowsActivator\WindowsActivator.csproj", "{E48C85E1-9AB7-43E4-B8F2-C295A9D19A4C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsActivator", "WindowsActivator\WindowsActivator.csproj", "{221BE1DA-A774-4760-B776-1BEA2D0AB3B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E48C85E1-9AB7-43E4-B8F2-C295A9D19A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E48C85E1-9AB7-43E4-B8F2-C295A9D19A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E48C85E1-9AB7-43E4-B8F2-C295A9D19A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E48C85E1-9AB7-43E4-B8F2-C295A9D19A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221BE1DA-A774-4760-B776-1BEA2D0AB3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221BE1DA-A774-4760-B776-1BEA2D0AB3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221BE1DA-A774-4760-B776-1BEA2D0AB3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221BE1DA-A774-4760-B776-1BEA2D0AB3B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C3054F8A-C9AA-46D5-9253-345C534A929B}
+		SolutionGuid = {CD4354B2-ACFA-4E91-B539-273FDAC52634}
 	EndGlobalSection
 EndGlobal
