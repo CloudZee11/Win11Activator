@@ -2,7 +2,7 @@
 
 A simple C# tool to activate Windows by detecting the operating system version (Windows 10 or 11) and edition (Home, Pro, Enterprise). It generates a batch file with the appropriate license key and runs it to activate Windows using `slmgr`. It uses the kms8.msguides.com KMS server for activation.
 
-##Activation
+## Activation
 - Read more about it at:
 - Windows 10: [https://msguides.com/windows-10](https://msguides.com/windows-10)
 - Windows 11: [https://msguides.com/windows-11](https://msguides.com/windows-11)
