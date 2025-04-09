@@ -16,7 +16,7 @@ A simple C# tool to activate Windows by detecting the operating system version (
 ## Download Pre-Built Executable
 For users who just want to run the tool without building it:
 
-1. Go to the [Releases page](https://github.com/TheShadeV/WindowsLicenseActivator/releases).
+1. Go to the [Releases page](https://github.com/TheShadeV/WindowsActivator/releases).
 2. Download `WindowsActivator.zip`.
 3. Extract the zip to get `WindowsActivator.exe`.
 4. Right-click `WindowsActivator.exe` and select **Run as administrator**.
