@@ -6,7 +6,7 @@ A simple C# tool to activate Windows by detecting the operating system version (
 - Read more about it at:
 - Windows 10: [https://msguides.com/windows-10](https://msguides.com/windows-10)
 - Windows 11: [https://msguides.com/windows-11](https://msguides.com/windows-11)
-  Credits: MS Guides
+- Credits: MS Guides
 
 ## Features
 - Detects Windows version (10/11) and edition (Home/Pro/Enterprise) using WMI.
